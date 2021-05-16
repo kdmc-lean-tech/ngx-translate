@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-translate"
+    }
+  },
+  "defaultProject": "angular-translate",
+  "cli": {
+    "analytics": "0e81706e-6df0-4a29-84c5-8e4e51f19db1"
+  }
 }
